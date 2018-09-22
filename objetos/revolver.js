@@ -1,7 +1,7 @@
-var revolver = {
+var Revolver = {
     nome	 	: "Oitão",
     calibre  	: ".38",
-    modelo		: undefined,
+    modelo		: "Taurus RT85S",
     capacidade  : 5,
     carregada	: false,
     posicoes	: [],
